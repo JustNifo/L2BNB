@@ -345,7 +345,7 @@ header {
 header .header__bg {
   width: 100%;
   height: calc( 100% - 24px);
-  background: url(../images/bg/header_bg.jpg) top left no-repeat;
+  background: url(../images/bg/c3_bg.jpg) top left no-repeat;
   border-radius: 4px;
 }
 
